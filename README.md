@@ -1,6 +1,11 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 # 💫 About Me:
-🔭 I’m currently a College Student.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Android.<br>⚡ Fun fact:- I am lazy but Smart.
+👋 Hi, I’m Abhishek Pramanik.
+<br>👀 I’m interested in Coding.
+<br>🌱 I’m currently doing engineering from computer science.
+<br>💞️ I’m looking to collaborate on any open source community where I can contribute something.
+<br>⚡ Fun fact:- I am lazy but Smart.
+<br>📫 Email me at abhishekpramanik07@gmail.com 
 <img align="right" alt="Coding" width="450" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
