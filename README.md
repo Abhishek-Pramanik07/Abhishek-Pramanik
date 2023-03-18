@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-pramanik07&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-pramanik07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-pramanik07" alt="abhishek-pramanik07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/abhishek_128900" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek_128900?logo=twitter&style=for-the-badge" alt="abhishek_128900" /></a> </p>
 
 - 📫 How to reach me **abhishekpramanik07@gmail.com**
@@ -28,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishek-pramanik07&show_icons=true&locale=en" alt="abhishek-pramanik07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-pramanik07&" alt="abhishek-pramanik07" /></p>
+
